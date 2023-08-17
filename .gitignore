@@ -1,8 +1,7 @@
 # Custom
+models_from_server/
 PetImages/
 images/
-model_cats_dogs/
-model_stanford_dogs/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
